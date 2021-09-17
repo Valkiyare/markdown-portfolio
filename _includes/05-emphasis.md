@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Dinosaur list 🐉
+1. Stegosaurus
+2. Diplodocus
+3. Ankylosaurus
