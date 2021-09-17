@@ -1,1 +1,1 @@
-(Images)[https://www.imgur.com]
+[Images](https://www.imgur.com)
